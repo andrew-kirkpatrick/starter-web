@@ -21,6 +21,9 @@ web serveer or even local server.
 
 ## How To Contribute
 
+PLease fork this repository and the issue Pull Requests for
+review.
+
 ### Copyright
 
 Copyright
