@@ -20,3 +20,7 @@ This is a simple web project, deployment can be on
 web serveer or even local server.
 
 ## How To Contribute
+
+### Copyright
+
+Copyright
