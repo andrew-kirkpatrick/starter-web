@@ -11,6 +11,12 @@ This example is to show different parts of
 
 ## Purpose
 
+As stated above, the main purpose is to provide
+simple example for Git training demos
+
 ## Deployment
+
+This is a simple web project, deployment can be on
+web serveer or even local server.
 
 ## How To Contribute
