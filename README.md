@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simle website proect for 
-showing how to use Git and Git hiub together.  Adding a line for rebasing example, more changes from myfeature branch
+showing how to use Git and Git hiub together.  Updating for emergency fix
 
 ## Introduction
 
