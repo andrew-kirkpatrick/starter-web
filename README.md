@@ -26,4 +26,4 @@ review.
 
 ### Copyright
 
-Copyright
+Copyright.  All rights reserved
